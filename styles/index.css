@@ -1,0 +1,12 @@
+/* HTML tag style */
+h1 {
+    color: blue;
+}
+/* class style */
+.green {
+    color: green;
+}
+/* id style */
+#purple {
+    color: purple;
+}
